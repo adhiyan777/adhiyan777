@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adhiyan777
-- 👀 I’m interested in analytics
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Adhiyan AM
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning python and power bi
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me adhiyan2002@gmail.com
 - 😄 Pronouns: He/Him
